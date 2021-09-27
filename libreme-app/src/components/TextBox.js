@@ -24,8 +24,8 @@ class TextBox extends React.Component {
         return (
         <form onSubmit={this.handleSubmit} className="Text-Box">
             <div className="new-information" >
-            <input type="text" value={this.state.value} onChange={this.handleChange} />
-            <input type="submit" value="Submit" />
+            <input type="text"  class="form-control" placeholder="Digite sua frase" aria-label="Recipient's username" aria-describedby="button-addon2" value={this.state.value} onChange={this.handleChange} />
+            <input type="submit" class="btn btn-outline-secondary" id="button-addon2" value="Submit" />
             </div>
         </form>
         );
