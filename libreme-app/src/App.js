@@ -10,8 +10,8 @@ function App() {
         <div>
             <h1>Libre Me</h1>  
         </div>
+        <TextBox />
       </header>
-      <TextBox />
     </div>
   );
 }
