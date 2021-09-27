@@ -1,0 +1,52 @@
+#site{
+    
+    width:1000px;
+    
+    height:500px;
+   
+    
+    margin-top:0;
+    
+    margin-left:auto;
+    
+    margin-bottom:0;
+    
+    margin-right:auto;
+   
+    background-color:#4ccbd4;
+}
+#header{
+    width:1000px;
+    height:100px;
+    background-color:#4ccbd4;
+    font-family: poppins;
+    font-size: 40px;
+    }
+    h1{
+        text-align: center;
+    }
+  #header img{
+      margin-left: 364px;
+      margin-top: 200px;
+  }
+  #conteudo{
+    width:1000px;
+    height:500px;
+    background-color:#4ccbd4;
+    text-align: center;
+    position: absolute;
+  }
+  input{
+      width: 800px;
+      height: 65px;
+      margin-top: 200px;
+  }
+  button{
+    height: 68px;
+    width: 68px;
+    margin-top: 200px;
+    
+  }
+  body{
+      background-color: #4ccbd4;
+  }
