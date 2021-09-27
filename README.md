@@ -1,3 +1,5 @@
+nunca mais esquecer: https://github.com/facebook/create-react-app
+
 node v14.17.0
 
 npm install
